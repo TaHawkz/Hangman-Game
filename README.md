@@ -22,6 +22,7 @@ Main features:
 - Shows a pop-up notification if you lose, roasting you.
 - Displays a play again button to reset the game.
 
+
 Operating system: Windows
 
 How to use: Open the Hangman-Game app 
